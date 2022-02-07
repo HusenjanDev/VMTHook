@@ -3,4 +3,4 @@ VMTHooking is about replacing the virtual functions inside our class. The reason
 
 Replace RTTI Table function with an custom function -> execute our custom function -> call the original function.
 
-That is the method that was used in this project... Once the executable program gets dll injected it will change the string outout...
+That is the method that was used in this project... Once the executable program gets dll injected it will change the string outout... All the code in this document is free to use.
